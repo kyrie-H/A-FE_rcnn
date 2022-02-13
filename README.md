@@ -1,7 +1,7 @@
 # A-FE_rcnn
 This project is based on openpcdet
 
-# The result on KITTI validation set is shown as below
+# The result on KITTI validation set
 INFO  Car AP@0.70, 0.70, 0.70:
 
 bbox AP:95.8867, 89.4739, 89.1744
@@ -122,5 +122,5 @@ bev  AP:94.6372, 80.2508, 77.0027
 
 aos  AP:94.50, 84.24, 81.01
 
-# The result on kitti test set
+# The result on kitti test server
 ![image](https://user-images.githubusercontent.com/56285242/153756656-0be6cbcb-8a79-464f-bd86-44c243c7d54e.png)
