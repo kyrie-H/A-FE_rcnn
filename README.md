@@ -3,9 +3,13 @@ This project is based on openpcdet
 
 # The result on KITTI validation set is shown as below
 INFO  Car AP@0.70, 0.70, 0.70:
+
 bbox AP:95.8867, 89.4739, 89.1744
+
 bev  AP:90.2850, 88.3801, 87.9961
+
 3d   AP:89.6144, 83.9891, 79.1844
+
 aos  AP:95.85, 89.35, 89.00
 
 Car AP_R40@0.70, 0.70, 0.70:
