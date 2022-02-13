@@ -121,3 +121,6 @@ bev  AP:94.6372, 80.2508, 77.0027
 3d   AP:94.6372, 80.2508, 77.0027
 
 aos  AP:94.50, 84.24, 81.01
+
+# The result on kitti test set
+![image](https://user-images.githubusercontent.com/56285242/153756656-0be6cbcb-8a79-464f-bd86-44c243c7d54e.png)
